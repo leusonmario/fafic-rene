@@ -1,4 +1,4 @@
 # fafic-rene
 
 Curso de Git
-Prof. Léuson
+Prof. Léuson Mário
